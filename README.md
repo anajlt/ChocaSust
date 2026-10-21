@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status">
   <img src="https://img.shields.io/badge/projeto-sustent%C3%A1vel-green" alt="Sustentável">
   <img src="https://img.shields.io/badge/automa%C3%A7%C3%A3o-eletr%C3%B4nica-blue" alt="Automação">
 </p>
