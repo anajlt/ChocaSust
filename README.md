@@ -68,7 +68,7 @@ Pensando nisso, este projeto propõe uma **chocadeira automatizada e sustentáve
 ## 👥 Equipe
 
 • Ana Júlia
-• Clarisse Marinho  
+• Clarisse Marinho 
 • Sâmara Cibele
 
 ## 🤝 Contribuindo
