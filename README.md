@@ -56,17 +56,20 @@ Pensando nisso, este projeto propõe uma **chocadeira automatizada e sustentáve
 ```
 /chocadeira
 │
-├── /src             # Código-fonte
-├── /docs            # Esquemas do circuito e documentação
-├── /imagens         # Fotos e protótipos
+├── /lampada         # Código do controle da lâmpada (aquecimento)
+│   └── lampada.ino
+│
+├── /sensor          # Código de leitura do sensor (temperatura/umidade)
+│   └── sensor.ino
+│
 └── README.md        # Documentação do projeto
 ```
 
 ## 👥 Equipe
 
-| [Ana Júlia] | 
-| [Clarisse Marinho] | 
-| [Sâmara Cibele] | 
+• Ana Júlia
+• Clarisse Marinho  
+• Sâmara Cibele
 
 ## 🤝 Contribuindo
 
