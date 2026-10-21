@@ -29,10 +29,7 @@ Pensando nisso, este projeto propõe uma **chocadeira automatizada e sustentáve
 - 🌡️ Controle automático de temperatura
 - 💧 Monitoramento de umidade
 - 🔄 Rotação automática dos ovos
-- 📟 [Exibição das informações em display / aplicativo]
 - ♻️ Uso de materiais reaproveitados e sustentáveis
-
-> Ajuste esta lista conforme o que o projeto realmente faz.
 
 ## 🛠️ Tecnologias e Componentes
 
@@ -48,7 +45,7 @@ Pensando nisso, este projeto propõe uma **chocadeira automatizada e sustentáve
 
 1. Clone este repositório:
 ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/anajlt/ChocaSust.git
 ```
 2. Abra o código na IDE [Arduino IDE / outra].
 3. Monte o circuito conforme o esquema da pasta `/docs`.
